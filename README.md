@@ -1,19 +1,25 @@
-Math 207: Elementary Linear Algebra, Spring 2015
-================================================
+MATH 2130: Introduction to Linear Algebra for Non-Mathematics Majors
+====================================================================
 
-**Instructor:**  William DeMeo  
-**Email:** [williamdemeo@gmail.com](mailto:williamdemeo@gmail.com)  
-**Office:** Carver, Room 466.  
-**Office hours:** MW 12:30pm-2pm, and by appointment.  
+**Instructor:**  Dr. William DeMeo    
+**Email:** [williamdemeo@gmail.com](mailto:williamdemeo@gmail.com)   
+**Office:** TBA  
+**Class Number:** 40123  
+**Units:** 3 units  
+**Dates:** 2017.08.28---2017.12.14  
+**Office hours:** TBA  
+**Lecture time and location:** Mo We Fr 3--3:50pm, ECCR 1B51  
+**Credits:** 3  
 
-**Lecture time and location:** TTh 8-9:20am in Carver 001.
+**COURSE WEBPAGE:** http://github.com/williamdemeo/math2130-fall2017  
 
-**Credits: 3**
 
-<!-- **Course Webpage:** http://github.com/williamdemeo/Math207-Spring2015 -->
-
-[**WebAssign:** https://www.webassign.net/login.html](https://www.webassign.net/login.html)  
-(For login instructions, see the [WebAssign-Instructions](http://htmlpreview.github.io/?https://github.com/williamdemeo/Math207-Spring2015/blob/master/WebAssign-Instructions.html).)
+**Course Description:**  Examines basic properties of systems of linear 
+equations, vector spaces, inner products, linear independence, dimension, 
+linear transformations, matrices, determinants, eigenvalues, eigenvectors 
+and diagonalization. Intended for students who do not plan to major in 
+Mathematics. Equivalent - Duplicate Degree Credit Not Granted: MATH 2135 or
+APPM 3310
 
 **Remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
@@ -25,7 +31,7 @@ in advance to let me know when you plan to visit.
 
 
 ----------------------------------------------------------------------------------
-- [Team Teaching](#team-teaching)
+
 - [Textbook](#textbook)
 - [Prerequisites](#prerequisites)
 - [Websites](#websites)
@@ -42,45 +48,48 @@ in advance to let me know when you plan to visit.
 
 -----------------------------------------------------------------------------------
 
-Team Teaching
---------------
-This course has two primary instructors, who design and plan the course
-together. This is meant to provide multiple perspectives on the course material, as well
-as more opportunities for contact outside of class. Both instructors have office hours and
-are available for email questions, regardless of which instructor provided the lecture for the
-material in question.
-
 Textbook
 --------
-Elementary Linear Algebra (Custom Edition), by Ron Larson.
+**Title:** [Linear Algebra and Its Applications, 5th Ed.](https://www.barnesandnoble.com/w/linear-algebra-and-its-applications-david-c-lay/1123850070?ean=9780321982384)  
+**Authors:** Lay, Lay and McDonald  
+**Edition:** 5th   
+**ISBN:** 9780321982384    
+**Publisher:** Pearson Education  
+**Publication Date:** Dec. 24, 2014  
+**List Price:** $209.80  
+
 
 Prerequisites
 -------------
-2 semesters of calculus
+MATH 2300 or APPM 1360 (minimum grade C-)
 
-Websites
---------
-[Blackboard: http://bb.its.iastate.edu](http://bb.its.iastate.edu)  
-[WebAssign: https://www.webassign.net/login.html](https://www.webassign.net/login.html)  
-[GitHub: https://github.com/williamdemeo](https://github.com/williamdemeo)
-
-**Blackboard** is used by the profs for recording grades, posting general
-announcements, and emailing students.
-
-**WebAssign** is an online homework system that students will use to complete
-homework assignments.
-
-**GitHub** is used by one of the profs (DeMeo) as a convenient and reliable
-  shared repository for storing electronic resources related to the course. 
 
 Grading Policy
 --------------
-**Homework:** 15%  
-**Quizzes:** 10%  
-**Two Tests:** 45%  
-**Final Exam:** 30%
+The breakdown of the final course grade is as follows:  
 
-**Letter Grades:** A: ≥ 91%, B: ≥ 81%, C: ≥ 71%, D: ≥ 61%, F: < 61%,
++ **Final exam:** 30 points    
++ **Mid-term exams:** 40 points (20 each)    
++ **Homework:** 25 points  
++ **Quizzes:** 5 points
+
+At the end of the semester, letter grades will be assigned roughly according to
+the following table. However, the scale may be shifted, depending on overall 
+student performance.  All curving (if any) will occur at the end of the semester.  
+
++ A: 94--100  
++ A-: 91--93  
++ B+: 87--90   
++ B: 84--86   
++ B-: 81--83   
++ C+: 77--80  
++ C: 74--76   
++ C-: 71--73   
++ D+: 67--70   
++ D: 64--66   
++ D-: 60--63   
++ F:  0--59    
+
 
 Homework
 --------
@@ -112,7 +121,6 @@ Quizzes will occur approximately once per week, on Thursdays.  Generally each qu
 will focus on the material covered during the preceeding week. 
 **There are no make-up quizzes or exams.** The lowest quiz score will be dropped.
 
-
 Attendance
 ----------
 Students are expected to attend all classes.
@@ -127,7 +135,7 @@ to end up on the border between two letter grades.  In such cases, the professor
 may look for things like an exemplary attendance record to justify moving the
 student up into the next grade category. 
 
-If you plan to leave before class is over, the correct procedure is to mention
+**Important:** If you plan to leave before class is over, the correct procedure is to mention
 this to the professor before the start of class. It is impolite and disruptive
 to your classmates to leave, or even pack up your belongings, before the lecture
 is over.
@@ -135,80 +143,66 @@ is over.
 
 Asking Questions
 ----------------
-When you don't understand something even after giving it some thought,
-please ask a question!  The best time/place to do this is during lecture or in
-office hours. 
 
-The second best time/place to ask a question is on our
-[Wiki pages](https://github.com/williamdemeo/Math207-Spring2015/wiki).  Anyone
-can read these pages, but to edit them and ask a question there, you need to
-sign up for a (free) GitHub.com account. (This is not required, but I would
-highly recommend GitHub to anyone who ever works on projects involving files
-stored on a computer, which these days is essentially everyone.  GitHub is
-especially good for collaborating on team projects.)
+When you don't understand something, please ask a question!
 
-Another way to ask a question is by using the "Ask my instructor" link on
-WebAssign. This method is convenient for the instructor because
-details about the problem you're having trouble with are automatically embedded
-in your email.
+1. **In Lecture.** The best time/place to ask a question is during lecture or recitation or office hours.
 
-*Please note:* if you use the "Ask my instructor" button, your
-question may appear on our wiki page (which is public).  If you're
-uncomfortable with this, please say so in your message.
+2. **On Piazza.** Another good place to ask a question is the online discussion
+   forum.
+   This term we will be using [Piazza][] for class discussion and all students
+   should enroll in this forum by visiting the [Piazza signup page][].
 
-Finally, you may email the instructors directly, though the response
-time might be significantly slower than if you use one of the preferred methods
-above. 
+   This system is highly catered to getting you help fast and efficiently from
+   classmates, the TA, and the professor. Rather than emailing questions to the
+   teaching staff, students are encouraged to post questions on Piazza forum.
+   If you have any problems or feedback for the developers, email
+   [team@piazza.com](mailto:team@piazza.com). 
 
-**Important note about asking questions:** 
-There are no stupid questions!  Students should ask about anything that seems
-unclear. *However*, questions about specific homework problems should be
-accompanied by evidence that the student has already given serious thought to
-the problem.  Otherwise, the reply will usually be, "What have you tried?"
+   Our class Piazza page is at: [Piazza][]
+
+[Piazza signup page]: https://piazza.com/colorado/fall2017/math2130
+[Piazza]: https://piazza.com/colorado/fall2017/math2130/home
+
+Email Policy
+------------
+You may email the instructor directly, though the response
+time will generally be slower than if you use one of the preferred methods
+described above.
+
+If you email the instructor, you *must* use an informative subject field.
+If you use <a href="mailto:williamdemeo@gmail.com?subject=MATH 2130:
+(fill in subject here)&amp;body=Dear Dr. DeMeo, (your message) Sincerely, (your full name)">this link</a>  to email the professor, then some of the required information should pre-populate your message fields.  If you do not at least indicate which class you are in, your email may be ignored.
+
 
 Use of Electronics During Lecture
 ---------------------------------
-Silence and refrain from using all electronic devices (phones, ipods, tablets,
-microwave ovens, etc.) during class and exam periods.  The only exception to
-this policy is the use of computers or tablets for the purpose of referring to
-an electronic copy of the textbook, or the online (WebAssign) homework
-problems. Using a computer during lecture to check Facebook, for
-example, is totally unacceptable. Besides how this affects your own ability to
-focus on what is being taught in the lecture, computers can be very distracting 
-to other students. **Use of electronic devices in lecture for purposes unrelated
-to calculus will not be tolerated.**
+Silence and refrain from using all electronic devices (phones, ipods,
+tablets, microwave ovens, etc.) during class and exam periods.
+Using a computer during lecture to check Facebook, for example, is totally
+unacceptable. Besides how this affects your own ability to focus on what is
+being taught in the lecture, computers can be very distracting to other
+students. **Use of electronic devices in lecture for purposes unrelated 
+to math is strictly prohibited.**
+
 
 Academic Honesty
 ----------------
-Cheating will not be tolerated. Violations of this policy will be referred to
-and dealt with by the ISU Office of Judicial Affairs, in a  manner consistent
-with university regulations, which range from a warning to expulsion from the
-university.
+Cheating is unacceptable and will not be tolerated. Violations of this policy
+will be referred to and dealt with in a manner consistent with university regulations, which range from a warning to expulsion from the university.
 
 
-Disabilities Statement
-----------------------
-If you believe that you have a disability that qualifies under the
+Students With Disabilities
+--------------------------
+If you have a documented disability
+or if you believe that you have a disability that qualifies under the
 Americans with Disabilities Act and Section 504 of the Rehabilitation
-Act and requires accommodations, you should contact the Student Disability
-Resources Office for information on appropriate policies and procedures. 
-The Disability Resources Office is located in the Student Services
-Building, Room 1076; phone number: 515-294-7220. The next step is to
-see me. I am happy to assist with accommodations, but I will not
-provide them retroactively (so file the appropriate requests and paperwork 
-before the first exam!).
+Act and requires accommodations, you should contact [Disability Services](http://www.colorado.edu/disabilityservices/)
+for information on appropriate policies and procedures.
 
-Classroom Policy
-----------------
-In this course, we follow the general university classroom policy: http://www.math.iastate.edu/Faculty/ClassPolicies.html
+Your instructor will be happy to assist with accommodations, but will not
+provide them retroactively, **so the appropriate requests and paperwork 
+should be filed well before the first exam.**
 
-Additional Resources
---------------------
-+ [WebAssign](https://www.webassign.net/login.html)
-+ [WebAssign Login Page](https://www.webassign.net/login.html)
-+ [WebAssign Login Instructions](http://htmlpreview.github.io/?https://github.com/williamdemeo/Math207-Spring2015/blob/master/WebAssign-Instructions.html)
-+ [Math 207 General Info](http://orion.math.iastate.edu/dept/CoursePages/207/)
-+ [ISU Math Department](http://www.math.iastate.edu/)
-+ [ISU Math Course Pages](http://www.math.iastate.edu/Directories/CoursePages.html)
-  
 
+------------------------------------------------------------
