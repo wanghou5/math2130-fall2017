@@ -11,8 +11,14 @@ MATH 2130: Introduction to Linear Algebra for Non-Mathematics Majors
 **Lecture time and location:** Mo We Fr 3--3:50pm, ECCR 1B51  
 **Credits:** 3  
 
-**COURSE WEBPAGE:** http://github.com/williamdemeo/math2130-fall2017  
+-------------------------------------------------------
+**WEBPAGES** 
+- **Main Course Page** (GitHub):  
+  https://github.com/williamdemeo/math2130-fall2017  
+- **Online Discussions** (Piazza):   
+  https://piazza.com/colorado/fall2017/math2130/home
 
+-------------------------------------------
 
 **Course Description:**  Examines basic properties of systems of linear 
 equations, vector spaces, inner products, linear independence, dimension, 
@@ -29,24 +35,26 @@ However, students are encouraged to stop by my office at anytime to see if I'm
 available. It is helpful (but not required) to [send me an email](mailto:williamdemeo@gmail.com)
 in advance to let me know when you plan to visit.
 
+----------------------------------------------------------------------------
 
-----------------------------------------------------------------------------------
-
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
 - [Textbook](#textbook)
 - [Prerequisites](#prerequisites)
-- [Websites](#websites)
 - [Grading Policy](#grading-policy)
 - [Homework](#homework)
 - [Quizzes and Exams](#quizzes-and-exams)
 - [Attendance](#attendance)
 - [Asking Questions](#asking-questions)
+- [Email Policy](#email-policy)
 - [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
-- [Supplemental Instruction](#supplemental-instruction)
 - [Academic Honesty](#academic-honesty)
-- [Disabilities Statement](#disabilities-statement)
-- [Additional Resources](#additional-resources)
+- [Students With Disabilities](#students-with-disabilities)
 
------------------------------------------------------------------------------------
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+----------------------------------------------------------------------------------
 
 Textbook
 --------
@@ -58,11 +66,13 @@ Textbook
 **Publication Date:** Dec. 24, 2014  
 **List Price:** $209.80  
 
+-----------------------------------------------------------
 
 Prerequisites
 -------------
 MATH 2300 or APPM 1360 (minimum grade C-)
 
+--------------------------------------------------------
 
 Grading Policy
 --------------
@@ -90,36 +100,32 @@ student performance.  All curving (if any) will occur at the end of the semester
 + D-: 60--63   
 + F:  0--59    
 
+----------------------------------------------------------
 
 Homework
 --------
-Online homework will be completed on WebAssign. See
-[WebAssign-Instructions](http://htmlpreview.github.io/?https://github.com/williamdemeo/Math207-Spring2015/blob/master/WebAssign-Instructions.html)
-for registration instructions. (These instructions are also available on the
-Blackboard site. The due date for online homework will be 
-midnight on the Thursday and **no late homework will be accepted**. The lowest homework
-score will be dropped at the end of the semester.
+TBA
 
 Quizzes and Exams
 -----------------
 There will be a number of quizzes, two midterm exams, and one final exam.
 
 + **Test 1** Chapters 1--3  
-**DATE: Thursday, February 19**  
+**DATE: TBA**
   
 + **Test 2** Chapters 4--5  
-**DATE: Thursday, April 9**  
+**DATE: TBA**
 
 + **FINAL EXAM** Chapters 1--7 (cumulative)  
-**DATE/TIME: Friday, May 8, 7:30am--9:30am**
+**DATE/TIME: TBA**
 
 In accordance with university policy, the final exam is mandatory and must be
 taken by all students at the scheduled time. Do not make travel plans before
 knowing the date of the final exam.
 
-Quizzes will occur approximately once per week, on Thursdays.  Generally each quiz
-will focus on the material covered during the preceeding week. 
 **There are no make-up quizzes or exams.** The lowest quiz score will be dropped.
+
+----------------------------------------------------------
 
 Attendance
 ----------
@@ -128,18 +134,18 @@ A grade penalty may be exacted if you have an excessive number of unexcused abse
 Specifically, you are permitted (but strongly discouraged from taking) seven
 absences in total. 
 
-However, since Math 207 is a large lecture, and because we will have near-weekly
-quizzes, attendance should not be an issue for most students in this class.
+However, since Math 2130 is small, and since we will have occasional quizzes in this class, 
+attendance should not be an issue for most students.
 Usually it only comes into play at the end of the semester if a student happens
-to end up on the border between two letter grades.  In such cases, the professor
-may look for things like an exemplary attendance record to justify moving the
-student up into the next grade category. 
+to end up on the border between two letter grades.  In such cases, an exemplary 
+attendance record may help justify assigning the higher of the two grades.
 
-**Important:** If you plan to leave before class is over, the correct procedure is to mention
-this to the professor before the start of class. It is impolite and disruptive
-to your classmates to leave, or even pack up your belongings, before the lecture
-is over.
+**Important:** If you plan to leave before class is over, the correct procedure 
+is to mention this to the professor before the start of class. It is impolite 
+and disruptive to your classmates to leave, or even pack up your belongings, 
+before the lecture is over.
 
+--------------------------------------------------
 
 Asking Questions
 ----------------
@@ -161,8 +167,7 @@ When you don't understand something, please ask a question!
 
    Our class Piazza page is at: [Piazza][]
 
-[Piazza signup page]: https://piazza.com/colorado/fall2017/math2130
-[Piazza]: https://piazza.com/colorado/fall2017/math2130/home
+-----------------------------------------------------
 
 Email Policy
 ------------
@@ -174,6 +179,7 @@ If you email the instructor, you *must* use an informative subject field.
 If you use <a href="mailto:williamdemeo@gmail.com?subject=MATH 2130:
 (fill in subject here)&amp;body=Dear Dr. DeMeo, (your message) Sincerely, (your full name)">this link</a>  to email the professor, then some of the required information should pre-populate your message fields.  If you do not at least indicate which class you are in, your email may be ignored.
 
+----------------------------------------
 
 Use of Electronics During Lecture
 ---------------------------------
@@ -185,12 +191,15 @@ being taught in the lecture, computers can be very distracting to other
 students. **Use of electronic devices in lecture for purposes unrelated 
 to math is strictly prohibited.**
 
+----------------------------------------------
 
 Academic Honesty
 ----------------
 Cheating is unacceptable and will not be tolerated. Violations of this policy
 will be referred to and dealt with in a manner consistent with university regulations, which range from a warning to expulsion from the university.
 
+
+----------------------------------------------------------
 
 Students With Disabilities
 --------------------------
@@ -204,5 +213,7 @@ Your instructor will be happy to assist with accommodations, but will not
 provide them retroactively, **so the appropriate requests and paperwork 
 should be filed well before the first exam.**
 
-
 ------------------------------------------------------------
+
+[Piazza signup page]: https://piazza.com/colorado/fall2017/math2130
+[Piazza]: https://piazza.com/colorado/fall2017/math2130/home
