@@ -3,11 +3,11 @@ MATH 2130: Introduction to Linear Algebra for Non-Mathematics Majors
 
 **Instructor:**  Dr. William DeMeo    
 **Email:** [williamdemeo@gmail.com](mailto:williamdemeo@gmail.com)   
-**Office:** TBA  
+**Office:** Math Building, Room 202  
 **Class Number:** 40123  
 **Units:** 3 units  
 **Dates:** 2017.08.28---2017.12.14  
-**Office hours:** TBA  
+**Office hours:** Wednesday 2--3, Friday 1--3  
 **Lecture time and location:** Mo We Fr 3--3:50pm, ECCR 1B51  
 **Credits:** 3  
 
@@ -110,14 +110,9 @@ Quizzes and Exams
 -----------------
 There will be a number of quizzes, two midterm exams, and one final exam.
 
-+ **Test 1** Chapters 1--3  
-**DATE: TBA**
-  
-+ **Test 2** Chapters 4--5  
-**DATE: TBA**
-
-+ **FINAL EXAM** Chapters 1--7 (cumulative)  
-**DATE/TIME: TBA**
++ **EXAM 1: Wednesday, October 11, 3pm** (on Chapters 1 and 2)
++ **EXAM 2: Friday, November 17, 3pm** (on Chapters 3, 4, 5)
++ **FINAL EXAM: Tuesday, December 19, 7:30--10pm** (cumulative)
 
 In accordance with university policy, the final exam is mandatory and must be
 taken by all students at the scheduled time. Do not make travel plans before
@@ -159,7 +154,7 @@ When you don't understand something, please ask a question!
    This term we will be using [Piazza][] for class discussion and all students
    should enroll in this forum by visiting the [Piazza signup page][].
 
-   This system is highly catered to getting you help fast and efficiently from
+   This system is designed to get you help fast and efficiently from
    classmates, the TA, and the professor. Rather than emailing questions to the
    teaching staff, students are encouraged to post questions on Piazza forum.
    If you have any problems or feedback for the developers, email

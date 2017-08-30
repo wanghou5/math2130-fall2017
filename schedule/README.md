@@ -2,9 +2,11 @@
 
 This is a tentative schedule for Math 2130.
 It is subject to change and will probably be updated throughout the semester. 
-Students should check this page often for updates!  (If you sign up for 
-GitHub, you can be notified whenever this page changes by "following" the 
-Math 2130 repository. Ask the instructor if you need help with this.)
+*Students should check this page often for updates!*  
+
+(Tip: if you sign up for a [GitHub](http://www.github.com) account, you can 
+"follow" our Math 2130 repository and be notified whenever changes are made
+to the schedule. Ask the instructor if you need help with this.)
 
 
 ## Chapter 1 Linear Equations in Linear Algebra
@@ -97,6 +99,8 @@ NO CLASS (fall break)
 
 ### Week of November 27
 - **HW 10 DUE** Friday, December 1, 3pm
+
+-----------------------------------------------------------------
 
 ## Chapter 6 Orthogonality and Least Squares
 
