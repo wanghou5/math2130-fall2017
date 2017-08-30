@@ -4,12 +4,12 @@ MATH 2130: Introduction to Linear Algebra for Non-Mathematics Majors
 **Instructor:**  Dr. William DeMeo    
 **Email:** [williamdemeo@gmail.com](mailto:williamdemeo@gmail.com)   
 **Office:** Math Building, Room 202  
+
 **Class Number:** 40123  
-**Units:** 3 units  
 **Dates:** 2017.08.28---2017.12.14  
 **Office hours:** Wednesday 2--3, Friday 1--3  
 **Lecture time and location:** Mo We Fr 3--3:50pm, ECCR 1B51  
-**Credits:** 3  
+**Units:** 3  
 
 -------------------------------------------------------
 **WEBPAGES** 
