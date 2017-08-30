@@ -97,22 +97,26 @@ to the schedule. Ask the instructor if you need help with this.)
 ### Week of November 20
 NO CLASS (fall break)
 
-### Week of November 27
-- **HW 10 DUE** Friday, December 1, 3pm
-
 -----------------------------------------------------------------
 
 ## Chapter 6 Orthogonality and Least Squares
 
-### Week of December 4
+### Week of November 27
 - 6.1 Inner Product, Length, and Orthogonality
 - 6.2 Orthogonal Sets
 - 6.3 Orthogonal Projections
+- **HW 10 DUE** Friday, December 1, 3pm
+
+
+### Week of December 4
+- 6.3 Orthogonal Projections
+- 6.4 The Gram–Schmidt Process
+- 6.5 Least-Squares Problems
 - **HW 11 DUE** Friday, December 8, 3pm
 
 ### Week of December 11
-- 6.4 The Gram–Schmidt Process
-- 6.5 Least-Squares Problems
+- 6.6 Applications to Linear Models (time permitting)
+- 6.7 Inner Product Spaces (time permitting)
 - **HW 12 DUE** Thursday, December 14 (last day of class)
 
 ------------------------------------------------------------------------
