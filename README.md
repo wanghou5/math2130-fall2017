@@ -3,12 +3,12 @@ MATH 2130: Introduction to Linear Algebra for Non-Mathematics Majors
 
 **Instructor:**  Dr. William DeMeo    
 **Email:** [williamdemeo@gmail.com](mailto:williamdemeo@gmail.com)   
-**Office:** Math Building, Room 202  
+**Office:** [Math Building](https://www.google.com/maps/place/Mathematics+Building,+Boulder,+CO+80305/@40.0077558,-105.2651941,18z/data=!3m1!4b1!4m5!3m4!1s0x876bedcb63fc434b:0x103526dd5cc47ed7!8m2!3d40.0077558!4d-105.2645434), Room 202  
 
 **Class Number:** 40123  
 **Dates:** 2017.08.28---2017.12.14  
 **Office hours:** Wednesday 2--3, Friday 1--3  
-**Lecture time and location:** Mo We Fr 3--3:50pm, ECCR 1B51  
+**Lecture time and location:** Mo We Fr 3--3:50pm, [ECCR](https://www.google.com/maps/place/ECCR/@40.0069583,-105.2632431,18.75z/data=!4m5!3m4!1s0x0:0xd592055ab2fb6599!8m2!3d40.007204!4d-105.2627832) 1B51  
 **Units:** 3  
 
 -------------------------------------------------------
