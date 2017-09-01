@@ -9,7 +9,7 @@
 For this first assignment, I've added an html file containing 
 all the problems.  I'm not sure I'll have time to do this for all assignments.
 
-To see HW01.html rendered in your browser, try [this link](https://cdn.rawgit.com/williamdemeo/math2130-fall2017/ece469ae/homework/HW01.html)
+To see HW01.html rendered in your browser, try [this link](https://cdn.rawgit.com/williamdemeo/math2130-fall2017/f05c2ceb/homework/HW01.html)
 
 ----------------------------------------------------
 
