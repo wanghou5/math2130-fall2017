@@ -3,8 +3,8 @@
 ## Chapter 1 Linear Equations in Linear Algebra
 
 ### **HW 1 DUE** Friday, September 8, 3pm
-**Section 1:** 2, 10, 14, 16, 20, 22, 24  
-**Section 2:** TBA
+**Section 1:** 2, 10, 14, 16, 20, 22, 24    
+**Section 2:** 6, 12, 16, 26, 29, 30, 31
 
 ----------------------------------------------------
 
