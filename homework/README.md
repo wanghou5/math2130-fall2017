@@ -3,8 +3,8 @@
 ## Chapter 1 Linear Equations in Linear Algebra
 
 ### **HW 1 DUE** Friday, September 8, 3pm
-**Section 1:** 2, 10, 14, 16, 20, 22, 24    
-**Section 2:** 6, 12, 16, 26, 29, 30, 31
+**Section 1.1:** 2, 10, 14, 16, 20, 22, 24    
+**Section 1.2:** 6, 12, 16, 26, 29, 30, 31
 
 For this first assignment, I've added an html file containing 
 all the problems.  I'm not sure I'll have time to do this for all assignments.
@@ -15,7 +15,9 @@ To see HW01.html rendered in your browser, try [this link](https://cdn.rawgit.co
 
 
 ### **HW 2 DUE** Friday, September 15, 3pm
-TBA
+**Section 1.3:** 2, 6, 8, 10, 14, (19), (21), 24, 26;    
+**Section 1.4:** 2, 10, (13), 14, 18, 20, 22, (27), (29), (31), 32.  
+(Numbers in parentheses are recommended exercises for which you need not submit solutions.)
 
 ----------------------------------------------------
 
