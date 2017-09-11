@@ -19,7 +19,10 @@ To see HW01.html rendered in your browser, try [this link](https://cdn.rawgit.co
 **Section 1.4:** 2, 10, (13), 14, 18, 20, 22, (27), (29), (31), 32.  
 (Numbers in parentheses are recommended exercises for which you need not submit solutions.)
 
-To see HW02.html rendered in your browser, try [this link](https://cdn.rawgit.com/williamdemeo/math2130-fall2017/02a3c384/homework/HW02/HW02.html).
+To see HW02.html rendered in your browser, you can try [this link](https://cdn.rawgit.com/williamdemeo/math2130-fall2017/02a3c384/homework/HW02/HW02.html). However, I just noticed that this method of rendering html 
+from a git repository doesn't seem to handle embedded images automatically, 
+so for now, to do problem 1.3.8, you need to look at the problem in the textbook 
+or else look at the pdf version of the assignment, which is in the file HW02.pdf.)
 
 ----------------------------------------------------
 
