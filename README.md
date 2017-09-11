@@ -104,7 +104,15 @@ student performance.  All curving (if any) will occur at the end of the semester
 
 Homework
 --------
-TBA
+There will be a written homework assignment approximately once per week, 
+usually due on Friday **at the start of class**.
+Any homework turned in at the end of class will be penalized, since 
+credit cannot be given for problems that were discussed in class 
+on the day the homework is due.
+
+All homework assignments are announced as updates to the [homework/README.md](https://github.com/williamdemeo/math2130-fall2017/blob/master/homework/README.md) file.  Simply click on the link to the [homework](https://github.com/williamdemeo/math2130-fall2017/tree/master/homework) directory above.
+
+---------------------------------------------------------------------
 
 Quizzes and Exams
 -----------------
