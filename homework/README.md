@@ -19,7 +19,7 @@ To see HW01.html rendered in your browser, try [this link](https://cdn.rawgit.co
 **Section 1.4:** 2, 10, (13), 14, 18, 20, 22, (27), (29), (31), 32.  
 (Numbers in parentheses are recommended exercises for which you need not submit solutions.)
 
-To see HW02.html rendered in your browser, try [this link](https://cdn.rawgit.com/williamdemeo/math2130-fall2017/2137a871/homework/HW02/HW02.html).
+To see HW02.html rendered in your browser, try [this link](https://cdn.rawgit.com/williamdemeo/math2130-fall2017/02a3c384/homework/HW02/HW02.html).
 
 ----------------------------------------------------
 
