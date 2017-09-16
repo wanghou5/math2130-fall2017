@@ -27,18 +27,21 @@ or else look at the pdf version of the assignment, which is in the file HW02.pdf
 ----------------------------------------------------
 
 ### **HW 3 DUE** Friday, September 22, 3pm
-**Section 1.5:** 6, (14), 16, 22, 24, 26, 34, 38;   
-**Section 1.7:** 2, 8, 16, 18, (20), 22, 28, (30), 32, 34, (36), (38).
+**Section 1.5:** 6, (14), 16, (22), 24, 26, 34;   
+**Section 1.7:** 2, 16, 18, (20), 22, (28), (30), 34, (36), (38);   
+**Section 1.8:** 6, 10, 12, 17, 22.
 
 
 ----------------------------------------------------
-
-## Chapter 2 Matrix Algebra
 
 ### **HW 4 DUE** Friday, September 29, 3pm
-TBA
+**Section 1.9:** TBA
+**Section 2.1:** TBA
+**Section 2.2:** TBA
 
 ----------------------------------------------------
+## Chapter 2 Matrix Algebra
+
 
 ### **HW 5 DUE** Friday, October 6, 3pm
 TBA
