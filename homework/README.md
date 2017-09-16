@@ -3,10 +3,10 @@
 ## Chapter 1 Linear Equations in Linear Algebra
 
 ### **HW 1 DUE** Friday, September 8, 3pm
-**Section 1.1:** 2, 10, 14, 16, 20, 22, 24    
-**Section 1.2:** 6, 12, 16, 26, 29, 30, 31
+**Section 1.1:** 2, 10, 14, 16, 20, 22, 24;       
+**Section 1.2:** 6, 12, 16, 26, 29, 30, 31.
 
-For this first assignment, I've added an html file containing 
+For this first assignment, I've added an html file containing
 all the problems.  I'm not sure I'll have time to do this for all assignments.
 
 To see HW01.html rendered in your browser, try [this link](https://cdn.rawgit.com/williamdemeo/math2130-fall2017/f05c2ceb/homework/HW01.html).
@@ -19,15 +19,17 @@ To see HW01.html rendered in your browser, try [this link](https://cdn.rawgit.co
 **Section 1.4:** 2, 10, (13), 14, 18, 20, 22, (27), (29), (31), 32.  
 (Numbers in parentheses are recommended exercises for which you need not submit solutions.)
 
-To see HW02.html rendered in your browser, you can try [this link](https://cdn.rawgit.com/williamdemeo/math2130-fall2017/02a3c384/homework/HW02/HW02.html). However, I just noticed that this method of rendering html 
-from a git repository doesn't seem to handle embedded images automatically, 
-so for now, to do problem 1.3.8, you need to look at the problem in the textbook 
+To see HW02.html rendered in your browser, you can try [this link](https://cdn.rawgit.com/williamdemeo/math2130-fall2017/02a3c384/homework/HW02/HW02.html). However, I just noticed that this method of rendering html
+from a git repository doesn't seem to handle embedded images automatically,
+so for now, to do problem 1.3.8, you need to look at the problem in the textbook
 or else look at the pdf version of the assignment, which is in the file HW02.pdf.)
 
 ----------------------------------------------------
 
 ### **HW 3 DUE** Friday, September 22, 3pm
-TBA
+**Section 1.5:** 6, (14), 16, 22, 24, 26, 34, 38;   
+**Section 1.7:** 2, 8, 16, 18, (20), 22, 28, (30), 32, 34, (36), (38).
+
 
 ----------------------------------------------------
 
@@ -85,5 +87,3 @@ TBA
 TBA
 
 ------------------------------------------------------------------------
-
-                                                                  
