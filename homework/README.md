@@ -47,10 +47,10 @@ or look at the [pdf version](https://github.com/williamdemeo/math2130-fall2017/b
 
 ----------------------------------------------------
 
-### **HW 4 DUE** Friday, September 29, 3pm
-**Section 1.9:** TBA
-**Section 2.1:** TBA
-**Section 2.2:** TBA
+### **HW 4 DUE** Friday, September 29, 3pm  
+**Section 1.9:** 2, (8), 16, (18), (20), 24, (29), 30, (32), 38, (40)  
+**Section 2.1:** 2, 4, 6, 16, 18, (22)  
+**Section 2.2:** (3), 4, 6, (15), 18, 32  
 
 ----------------------------------------------------
 ## Chapter 2 Matrix Algebra
