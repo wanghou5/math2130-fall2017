@@ -16,7 +16,7 @@ To see HW01.html rendered in your browser, try [this link](https://cdn.rawgit.co
 
 ### **HW 2 DUE** Friday, September 15, 3pm
 **Section 1.3:** 2, 6, 8, 10, 14, (19), (21), 24, 26;    
-**Section 1.4:** 2, 10, (13), 14, 18, 20, 22, (27), (29), (31), 32.  
+**Section 1.4:** 2, 10, (13), 14, 18, 20, 22, (27), (29), (31), 32.   
 (Numbers in parentheses are recommended exercises for which you need not submit solutions.)
 
 + [pdf version](https://github.com/williamdemeo/math2130-fall2017/blob/master/homework/HW02/HW02.pdf) of HW 2
@@ -33,7 +33,8 @@ or look at the [pdf version](https://github.com/williamdemeo/math2130-fall2017/b
 ### **HW 3 DUE** Friday, September 22, 3pm
 **Section 1.5:** 6, (14), 16, (22), 24, 26, 34;   
 **Section 1.7:** 2, 16, 18, (20), 22, (28), (30), 34, (36), (38);   
-**Section 1.8:** 6, 10, 12, 17, 22.
+**Section 1.8:** 6, 10, 12, 17, 22.  
+(Numbers in parentheses are recommended exercises for which you need not submit solutions.)
 
 + [pdf version](https://github.com/williamdemeo/math2130-fall2017/blob/master/homework/HW03/HW03.pdf) of HW 3
 
@@ -48,9 +49,11 @@ or look at the [pdf version](https://github.com/williamdemeo/math2130-fall2017/b
 ----------------------------------------------------
 
 ### **HW 4 DUE** Friday, September 29, 3pm  
-**Section 1.9:** 2, (8), 16, (18), (20), 24, (29), 30, (32), 38, (40)  
-**Section 2.1:** 2, 4, 6, 16, 18, (22)  
-**Section 2.2:** (3), 4, 6, (15), 18, 32  
+**Section 1.9:** 2, (8), 16, (18), (20), 24, (29), 30, (32), 38, (40);  
+**Section 2.1:** 2, 4, 6, 16, 18, (22);  
+**Section 2.2:** (3), 4, 6, (15), 18, 32.  
+(Numbers in parentheses are recommended exercises for which you need not submit solutions.)
+ 
 
 ----------------------------------------------------
 ## Chapter 2 Matrix Algebra
