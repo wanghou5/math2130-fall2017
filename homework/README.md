@@ -56,11 +56,10 @@ or look at the [pdf version](https://github.com/williamdemeo/math2130-fall2017/b
  
 
 ----------------------------------------------------
-## Chapter 2 Matrix Algebra
-
-
-### **HW 5 DUE** Friday, October 6, 3pm
-TBA
+### **HW 5 DUE** Friday, October 6, 3pm  
+**Section 2.3:** 6, 12, 18, 22, 34      
+**Section 2.8:** 6, 10, 18, 22, 24       
+**Section 2.9:** 2, 6, 8, 18  
 
 -------------------------------------------------------
 
